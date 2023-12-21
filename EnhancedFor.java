@@ -61,6 +61,7 @@ public class EnhancedFor
 	{	System.out.println("index, value");
 		for(int i = 0; i < list.length; i++)
 		{	System.out.println(i + ", " + list[i]);
+            System.out.println(i + ", " + list[i]);
 		}
 	}
 
